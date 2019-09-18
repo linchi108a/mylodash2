@@ -1,0 +1,26 @@
+{
+  "name": "mylodash2",
+  "version": "1.0.0",
+  "description": "I remade a lodash library in JavaScript",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linchi108a/mylodash2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linchi108a/mylodash2/issues"
+  },
+  "homepage": "https://github.com/linchi108a/mylodash2#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
